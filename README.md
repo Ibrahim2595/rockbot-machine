@@ -12,13 +12,26 @@ _Click below to play the project video_
 [![Rockbot - rock assemling machine](/assets/Video.JPG)](https://player.vimeo.com/video/668792297 "Rockbot - rock assemling machine - Click to Watch!")
 
 ![](/assets/MAS863-Drawing-Axons-01.jpg)
+
+**Machine Axonometric:**
 ![](/assets/rockbot-axon1.jpg)
+
+**Machine Base:**
 ![](/assets/rockbot-axon2.jpg)
+
+**Linear Delta Robot Rail:**
 ![](/assets/rockbot-axon3.jpg)
+
+**Delta Robot:**
 ![](/assets/rockbot-axon4.jpg)
+
+**Custom Gripper:**
 ![](/assets/rockbot-axon5.jpg)
+
+**Support Bot for Cantilevers:**
 ![](/assets/rockbot-axon6.jpg)
 
+**SAMD21E18A Electronic Board [1/5 example]:**
 ![](/assets/rockbot-03.jpg)
 
 For more information on the project, visit: [https://ibrahimibrahim.works/rockbot.html](https://ibrahimibrahim.works/rockbot.html)  
