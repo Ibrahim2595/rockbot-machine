@@ -8,6 +8,7 @@ More on the final project submission can be found [here](http://fab.cba.mit.edu/
 
 ![](/assets/rockbot-01.jpg)
 
+_Click below to play the project video_  
 [![Rockbot - rock assemling machine](/assets/Video.JPG)](https://player.vimeo.com/video/668792297 "Rockbot - rock assemling machine - Click to Watch!")
 
 ![](/assets/MAS863-Drawing-Axons-01.jpg)
